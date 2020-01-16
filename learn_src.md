@@ -15,7 +15,9 @@ vcpkg
 build2
 cget
 hunter
+
 通用
+
 Boost - 大量通用库的汇集（ Boost 许可）
 GSL -  Guideline Support Library 实现，为 Bjarne Stroustrup, Herb Sutter 和 Co 在《 C++ 核心方针》中推荐
 BDE -  来自 Bloomberg L.P. 的 Bloomberg Development Environment 核心库（ Apache 许可）
@@ -47,6 +49,7 @@ yaal - 算法、汇集、任意精度计算、泛型 DSL 文法驱动分析器�
 gsl-lite - C++98 、 C++11 及后续版本的 ISO C++ Guideline 支持库 (GSL) 的单文件唯头文件版本。
 nonstd-lite - *-lite 仓库的亲属，将 C++11 后特性移植到古代 C++ 环境的迁移路径。
 units - 编译时唯头文件的量纲分析及单位转换库，建立于 C++14 而无依赖。
+
 交互
 sockpp - 简单的现代 C++ 套接库
 restbed - 设计以嵌入到宽范围的应用中的 C++ 为框架。
@@ -113,6 +116,7 @@ qwt5 - 技术应用到 Qt Widgets
 libdbusmenu-qt
 QuickQanava - 直接在 Qt/QML 应用中画图的 C++14 库；项目主页： http://www.qanava.org
 QuickProperties - QObject/QtObject 属性编辑的 C++/QML 库；项目主页： http://www.qanava.org
+
 通用多媒体
 SFML (Simple and Fast Multimedia Library)
 SDL (Simple DirectMedia Layer) - 对音频、键盘、鼠标、操纵杆及图形硬件，经由平台上图形 API （通常为 OpenGL 或 Direct3D ）的跨平台低层访问（ zlib 许可）
@@ -125,6 +129,7 @@ nux
 pangomm
 nanovg -  基于 openGL/DX/metal 的 2d 绘图库。
 bgfx -  非常强大的跨平台图形渲染库，支持平台包括 Windows Mac Linux iOS Android Web，渲染后端包括 DX, opengl, metal webgl 等。
+
 图像
 gegl
 stb.image
@@ -132,8 +137,10 @@ Adobe/boost GIL - 高层通用库，聚焦于 2D 图像上操作的算法。非�
 GraphicsMagick - 读、写、操纵 88 种主要格式的图像。于 2002 年分化自 ImageMagick
 Skia Graphics Engine - Google 从 2005 年起的图形库，用于 Chrome 、 Chrome OS 、 Android 还有 Firefox 和 Sublime Text enwiki:Skia_Graphics_Engine
 Anti-Grain Evolution - 跨平台 2D 光栅化及绘图引擎
+
 打点
 plotutils
+
 格式
 libraw
 openexr
@@ -200,6 +207,7 @@ BOX2D - 物理引擎
 IBM ICU
 gettext
 spirit-po - 快速的唯头文件库，分析 po 文件，并提供类似 GNU libintl 的接口。基于 boost::spirit 。
+
 数学
 stats++ - 先进、广泛的统计软件：数据收集及预处理、统计、机器学习及优化，拥有开放的 C++ 源码。
 StatsLib - 统计分布函数的模板化唯头文件库。
