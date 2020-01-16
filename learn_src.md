@@ -1,4 +1,6 @@
-原文链接：http://en.cppreference.com/w/cpp/links/libs
+
+src 1:原文链接：http://en.cppreference.com/w/cpp/links/libs
+src 2: https://zh.cppreference.com/w/cpp/links/libs
 
 此页面的目的是构建开源 C++ 库的比较列表，使得人们在需要特定功能的实现时，不必浪费时间在网上（ DuckDuckGo 、谷歌、必应等）搜索。
 
